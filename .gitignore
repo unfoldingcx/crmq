@@ -1,6 +1,9 @@
 # dependencies (bun install)
 node_modules
 
+# plans
+docs/plans
+
 # output
 out
 dist
